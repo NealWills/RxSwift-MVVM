@@ -1,0 +1,57 @@
+PODS:
+  - Action (4.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - Alamofire (4.9.1)
+  - Differentiator (4.0.1)
+  - "NSObject+Rx (5.0.2)":
+    - RxSwift (~> 5.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxCoreData (1.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+
+DEPENDENCIES:
+  - Action
+  - Alamofire
+  - "NSObject+Rx"
+  - RxCocoa
+  - RxCoreData
+  - RxDataSources
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Action
+    - Alamofire
+    - Differentiator
+    - "NSObject+Rx"
+    - RxCocoa
+    - RxCoreData
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Action: 0d14986aad0f1330aa27ce65d0cdeaacbb63d91c
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  "NSObject+Rx": 2eb2cf51fd1c554118449a7fbc36e4cd620b9e94
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxCoreData: 1ed5f83e80facccc90fc054eb7f39a44177de56a
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+
+PODFILE CHECKSUM: f789cc7bb07c4ede5d1eb6ec23f05f3ff0141369
+
+COCOAPODS: 1.8.4
